@@ -20,7 +20,7 @@
     "title": "Subtle",
     "styles": [
       "/blades.css",
-      "https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-okaidia.min.css"
+      "https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-tomorrow.min.css"
     ],
     "scripts": [
       "https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-core.min.js",
