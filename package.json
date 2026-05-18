@@ -11,9 +11,12 @@
     "start": "npm run do -- start",
     "stage": "npm run do -- stage",
     "build": "npm run do -- build",
-    "simple:start": "SITE=simple npm run do -- start",
-    "simple:stage": "SITE=simple npm run do -- stage",
-    "simple:build": "SITE=simple npm run do -- build",
+    "start:blades": "SITE=blades npm run do -- start",
+    "stage:blades": "SITE=blades npm run do -- stage",
+    "build:blades": "SITE=blades npm run do -- build",
+    "start:simple": "SITE=simple npm run do -- start",
+    "stage:simple": "SITE=simple npm run do -- stage",
+    "build:simple": "SITE=simple npm run do -- build",
     "dev:dl": "curl https://raw.githubusercontent.com/anyblades/bladeswitch/refs/heads/main/admin/index.html -o ./_public/admin/index.html"
   },
   "devDependencies": {

@@ -1,4 +1,4 @@
-{% assign site = pkg.site | merge: site %}
+{% assign site = pkg.site | merge: site | attr_set: 'styles', pkg.site.styles | attr_concat: 'styles', site.styles %}
 
 {% capture body %}
   <main class="container breakout-all">
