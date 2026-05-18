@@ -8,7 +8,7 @@
   ],
   "scripts": {
     "11ty": "ELTY_OPTIONS='--input=./site-tailwind --config=./node_modules/@anyblades/eleventy-blades/src/eleventy.config.js' npm -w do run",
-    "start": "npm run 11ty -- start",
+    "start": "npm run 11ty -- start -- -i ./site-tailwind/styles.css",
     "stage": "npm run 11ty -- stage",
     "build": "npm run 11ty -- build",
     "dev:dl": "curl https://raw.githubusercontent.com/anyblades/bladeswitch/refs/heads/main/admin/index.html -o ./_public/admin/index.html"
