@@ -12,12 +12,6 @@
     "stage": "npm run do -- stage",
     "build": "npm run do -- build",
     "prebuild": "npm pkg delete overrides",
-    "start:blades": "SITE=blades npm run do -- start",
-    "stage:blades": "SITE=blades npm run do -- stage",
-    "build:blades": "SITE=blades npm run do -- build",
-    "start:simple": "SITE=simple npm run do -- start",
-    "stage:simple": "SITE=simple npm run do -- stage",
-    "build:simple": "SITE=simple npm run do -- build",
     "dev": "npm pkg set overrides.'@anyblades/eleventy-blades'='file:../eleventy-blades' && npm install --install-links file:../eleventy-blades/packages/eleventy-blades-base",
     "dev:dl": "curl https://raw.githubusercontent.com/anyblades/bladeswitch/refs/heads/main/admin/index.html -o ./_public/admin/index.html"
   },
