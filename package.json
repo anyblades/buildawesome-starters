@@ -12,12 +12,12 @@
     "stage": "npm run do -- stage",
     "build": "npm run do -- build",
     "prebuild": "npm pkg delete overrides",
-    "dev": "npm pkg set overrides.'@anyblades/eleventy-blades'='file:../eleventy-blades' && npm install --install-links file:../eleventy-blades/packages/eleventy-blades-base",
+    "dev": "npm install --install-links file:../eleventy-blades/packages/eleventy-blades-base file:../eleventy-blades && cd ./node_modules/@anyblades/ && rm -r ./eleventy-blades* && ln -s ../../../eleventy-blades* ./",
     "dev:dl": "curl https://raw.githubusercontent.com/anyblades/bladeswitch/refs/heads/main/admin/index.html -o ./_public/admin/index.html"
   },
   "dependencies": {
     "@11ty/eleventy": "^4.0.0-alpha.7",
-    "@anyblades/eleventy-blades-base": "^0.2.0",
+    "@anyblades/eleventy-blades-base": "^0.3.1",
     "@tailwindcss/cli": "^4.1.18",
     "@tailwindcss/typography": "^0.5.19",
     "tailwindcss": "^4.1.18"
