@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "@anyblades/build-awesome-starter",
-  "version": "0.9.7",
+  "version": "0.10.0",
   "type": "module",
   "workspaces": [
     "do"
@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^4.0.0-alpha.7",
-    "@anyblades/eleventy-blades-base": "^0.3.1",
+    "@anyblades/eleventy-blades-base": "^0.4.1",
     "@tailwindcss/cli": "^4.1.18",
     "@tailwindcss/typography": "^0.5.19",
     "tailwindcss": "^4.1.18"
