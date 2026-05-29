@@ -1,6 +1,6 @@
 # 🥷 Build Awesome Starter <sup class="sup">![](https://img.shields.io/github/v/release/anyblades/build-awesome-starter?label=&color=black)</sup>
 
-Modern, lightweight Eleventy v4 starter with Tailwind/Pico, [*Bl*ades](https://github.com/anyblades/blades), CMS and multisiting 🥷
+Modern, lightweight Eleventy v4 multi-site starter showcasing [Eleventy Blades](https://11ty.blades.ninja/) and Tailwind CLI for: 1️⃣ Tailwind 2️⃣ [Pico](https://blades.ninja/css/pico/) 3️⃣ Simple CSS.
 
 [![](https://img.shields.io/badge/Demo-darkslategray?style=for-the-badge)](https://build.blades.ninja/)
 [![](https://img.shields.io/netlify/93494d69-cb21-4ad0-855f-3748d3741e5c?logo=netlify&label=Deploy&labelColor=darkslategray&style=for-the-badge)](https://app.netlify.com/start/deploy?repository=https://github.com/anyblades/build-awesome-starter)
