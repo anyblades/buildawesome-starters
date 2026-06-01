@@ -1,4 +1,4 @@
-# 🥷 Build Awesome Starter(s) <sup class="sup">![](https://img.shields.io/github/v/release/anyblades/build-awesome-starter?label=&color=black)</sup>
+# 🥷 *B*uild Awesome Starter(s) <sup class="sup">![](https://img.shields.io/github/v/release/anyblades/build-awesome-starter?label=&color=black)</sup>
 
 Modern, lightweight Eleventy v4 multi-site starter showcasing [Eleventy Blades](https://11ty.blades.ninja/) and Tailwind CLI for:  
 1️⃣ [Tailwind](https://tw.11ty.blades.ninja/) &nbsp;
