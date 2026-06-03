@@ -10,7 +10,7 @@
 <big>Modern, lightweight Eleventy v4 multi-site starter showcasing [Eleventy *Bl*ades](//11ty.blades.ninja/) and Tailwind CLI for:</big>
 
 1]&nbsp;[Tailwind CSS + Typography](//tw.11ty.blades.ninja/) <sup><i class="fa-brands fa-tailwind-css"></i></sup> &nbsp;
-2]&nbsp;[Pico&nbsp;CSS](//pico.11ty.blades.ninja/) <sup>✨</sup> &nbsp;
+2]&nbsp;[Pico&nbsp;CSS](//pico.11ty.blades.ninja/)&nbsp;<sup>✨</sup> &nbsp;
 3]&nbsp;[Simple CSS](//simple.11ty.blades.ninja/) <sup>{}</sup>
 
 ## Killer features
