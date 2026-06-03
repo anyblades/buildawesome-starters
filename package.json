@@ -2,6 +2,7 @@
   "private": true,
   "name": "@anyblades/build-awesome-starter",
   "version": "0.10.0",
+  "license": "MIT",
   "type": "module",
   "workspaces": [
     "do"
@@ -25,6 +26,9 @@
     "favicon": "https://blades.ninja/favicon.ico",
     "title": "Build Awesome Starter(s)",
     "generator": "Build Awesome Starter — Modern, lightweight Eleventy v4 multi-site starter showcasing Eleventy Blades and Tailwind CLI for: 1) Tailwind 2) Pico 3) Simple CSS",
+    "author": {
+      "name": "Anton Staroverov"
+    },
     "styles": [
       "https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-tomorrow.min.css",
       "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.css",
@@ -38,9 +42,6 @@
     ],
     "footer": "Powered by &nbsp;<a href='https://github.com/anyblades'><img src='https://img.shields.io/github/stars/anyblades?logo=_&label=🥷%20Blades'></a>"
   },
-  "=== METADATA": "===",
-  "author": "Anton Staroverov",
-  "license": "MIT",
   "=== DEV ONLY": "===",
   "devDependencies": {
     "prettier-plugin-jinja-template": "^2.1.0",
