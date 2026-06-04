@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^4.0.0-alpha.7",
-    "@anyblades/eleventy-blades-base": "^1.0.0-beta.2",
+    "@anyblades/eleventy-blades-base": "^1.0.0",
     "@tailwindcss/cli": "^4.1.18",
     "@tailwindcss/typography": "^0.5.19",
     "tailwindcss": "^4.1.18"

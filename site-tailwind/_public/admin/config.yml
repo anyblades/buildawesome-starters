@@ -6,7 +6,7 @@ backend:
   branch: main
 
 # Global configuration
-media_folder: /_public/media
+media_folder: /media
 public_folder: /media
 output:
   omit_empty_optional_fields: true
