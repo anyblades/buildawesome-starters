@@ -11,7 +11,8 @@
 
 1]&nbsp;[Tailwind CSS + Typography](//tw.11ty.blades.ninja/) <sup><i class="fa-brands fa-tailwind-css"></i></sup> &nbsp;
 2]&nbsp;[Pico&nbsp;CSS](//pico.11ty.blades.ninja/)&nbsp;<sup>✨</sup> &nbsp;
-3]&nbsp;[Simple CSS](//simple.11ty.blades.ninja/) <sup>{}</sup>
+3]&nbsp;[Simple CSS](//simple.11ty.blades.ninja/) <sup>{}</sup>  
+4] [Liquid](https://liquid.11ty.blades.ninja/) <img src="https://img.shields.io/netlify/01d6a69a-2c7e-4620-8496-83087add8f8e?logo=&label=💧&labelColor=darkslategray">
 
 ## Killer features
 
