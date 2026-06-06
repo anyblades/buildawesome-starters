@@ -1,8 +1,13 @@
 {% set site = pkg.site | merge(site) | attr_set('styles', pkg.site.styles) | attr_concat('styles', site.styles) %}
-{% set content_for_header %}{{ content_for_header | safe }}<meta name="generator" content="{{ site.generator }}">{% endset %}
+{% set content_for_header %}
+  {{ content_for_header | safe }}<meta name="generator" content="{{ site.generator }}" />
+{% endset %}
 {% extends 'blades/html.njk' %}
 
 {% block body %}
-  <main><article class="prose lg:prose-xl xl:prose-2xl breakout-all">{{ content | safe }}</article></main>
-  <footer class="prose text-center"><hr>{{ site.footer | safe }} © {{ site.year }}</footer>
+  <main><div class="container breakout-all prose lg:prose-xl xl:prose-2xl">{{ content | safe }}</div></main>
+  <footer class="container prose text-center">
+    <hr />
+    {{ site.footer | safe }} © {{ site.year }}
+  </footer>
 {% endblock %}

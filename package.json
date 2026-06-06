@@ -33,9 +33,6 @@
       "https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-tomorrow.min.css",
       "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.css"
     ],
-    "inline_styles": [
-      "body { padding-block: 4rem 2rem }"
-    ],
     "scripts": [
       "https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-core.min.js",
       "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/autoloader/prism-autoloader.min.js",

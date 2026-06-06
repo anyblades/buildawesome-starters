@@ -3,14 +3,9 @@
 @import "@anyblades/blades";
 
 /* Custom styles go below */
-body {
-  @apply py-[3em] dark:bg-gray-900;
-}
-@layer utilities {
-  .prose {
-    @apply container p-4 mx-auto dark:prose-invert;
-    img {
-      @apply inline-block m-0;
-    }
-  }
+body { @apply py-[4em] dark:bg-gray-900 }
+.container { @apply mx-auto }
+.prose {
+  @apply dark:prose-invert;
+  img { @apply inline-block m-0 }
 }
