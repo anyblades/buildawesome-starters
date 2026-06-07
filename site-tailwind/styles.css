@@ -3,7 +3,10 @@
 @import "@anyblades/blades/standalone";
 
 /* Custom styles go below */
-body { @apply py-[4em] dark:bg-gray-900 }
+body {
+  @apply py-[4em] dark:bg-gray-900;
+  > footer { @apply text-center }
+}
 .container { @apply mx-auto }
 .prose {
   @apply dark:prose-invert;
