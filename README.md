@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Code-gainsboro?logo=github&logoColor=darkslategray&style=for-the-badge)](https://github.com/anyblades/buildawesome-starters)
 [![](https://img.shields.io/github/stars/anyblades/buildawesome-starters?label=Star&labelColor=gainsboro&color=silver&style=for-the-badge)](https://github.com/anyblades/buildawesome-starters)
 
-<big>Modern, lightweight Eleventy v4 multi-site starter showcasing [Eleventy *Bl*ades](//11ty.blades.ninja/) and Tailwind CLI for:</big>
+<big>4-in-1 modern, lightweight Eleventy v4 multi-site starter showcasing [Eleventy *Bl*ades Kit](//11ty.blades.ninja/) and Tailwind CLI for:</big>
 
 | [1] [Tailwind CSS + Typography](//tw.11ty.blades.ninja/) | ![](https://img.shields.io/netlify/a980220a-630d-4022-9496-fb83b5db7c6b?logo=tailwindcss&label=&labelColor=gray) |
 |-|-|
