@@ -6,13 +6,13 @@
 
 <big>6-in-1 modern, lightweight Eleventy v4 multi-site starter showcasing [Eleventy&nbsp;*Bl*ades&nbsp;Kit](//11ty.blades.ninja/) and Tailwind CLI for:</big>
 
-| [1] [Tailwind CSS + Typography](//tw.11ty.blades.ninja/) | ![](https://img.shields.io/netlify/a980220a-630d-4022-9496-fb83b5db7c6b?logo=tailwindcss&label=&labelColor=gray) |
-| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| [2] [*Bl*ades CSS](//blades.11ty.blades.ninja/)          | ![](https://img.shields.io/netlify/...?logo=&label=🥷)                                                           |
-| [3] [Bootstrap CSS](//bs.11ty.blades.ninja/)             | ![](https://img.shields.io/netlify/...?logo=bootstrap&label=&labelColor=gray)                                    |
-| [4] [Pico CSS](//pico.11ty.blades.ninja/)                | ![](https://img.shields.io/netlify/93494d69-cb21-4ad0-855f-3748d3741e5c?logo=&label=✨)                          |
-| [5] [Simple CSS](//simple.11ty.blades.ninja/)            | ![](https://img.shields.io/netlify/6bbb26f6-0115-4325-8cd3-b59e22f18265?logo=&label={})                          |
-| [6] [Liquid Templates](//liquid.11ty.blades.ninja/)      | ![](https://img.shields.io/netlify/01d6a69a-2c7e-4620-8496-83087add8f8e?logo=&label=💧)                          |
+| [1] [Tailwind CSS + Typography](//tw.11ty.blades.ninja/) | ![](https://img.shields.io/netlify/a980220a-630d-4022-9496-fb83b5db7c6b?logo=tailwindcss&label=&labelColor=gray)                  |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| [2] [*Bl*ades CSS](//blades.11ty.blades.ninja/)          | ![](https://img.shields.io/netlify/41df6bc0-3b91-48f7-903a-3511ca3652a8?logo=&label=🥷)                                           |
+| [3] [Bootstrap CSS](//bs.11ty.blades.ninja/)             | ![](https://img.shields.io/netlify/e58db8aa-94b7-4637-80cc-50e03cff45b0?logo=bootstrap&logoColor=lavender&label=&labelColor=gray) |
+| [4] [Pico CSS](//pico.11ty.blades.ninja/)                | ![](https://img.shields.io/netlify/93494d69-cb21-4ad0-855f-3748d3741e5c?logo=&label=✨)                                           |
+| [5] [Simple CSS](//simple.11ty.blades.ninja/)            | ![](https://img.shields.io/netlify/6bbb26f6-0115-4325-8cd3-b59e22f18265?logo=&label={})                                           |
+| [6] [Liquid Templates](//liquid.11ty.blades.ninja/)      | ![](https://img.shields.io/netlify/01d6a69a-2c7e-4620-8496-83087add8f8e?logo=&label=💧)                                           |
 
 ## Killer features
 
