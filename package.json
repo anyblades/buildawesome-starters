@@ -30,13 +30,11 @@
     },
     "styles": [
       "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/all.min.css",
-      "https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-tomorrow.min.css",
-      "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.css"
+      "https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-tomorrow.min.css"
     ],
     "scripts": [
       "https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-core.min.js",
-      "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/autoloader/prism-autoloader.min.js",
-      "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.js"
+      "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/autoloader/prism-autoloader.min.js"
     ],
     "footer": "Powered by &nbsp;<a href='https://github.com/anyblades'><img src='https://img.shields.io/github/stars/anyblades?logo=_&label=🥷%20Blades'></a>"
   },

@@ -4,13 +4,14 @@
 [![](https://img.shields.io/badge/Code-gainsboro?logo=github&logoColor=darkslategray&style=for-the-badge)](https://github.com/anyblades/buildawesome-starters)
 [![](https://img.shields.io/github/stars/anyblades/buildawesome-starters?label=Star&labelColor=gainsboro&color=silver&style=for-the-badge)](https://github.com/anyblades/buildawesome-starters)
 
-<big>4-in-1 modern, lightweight Eleventy v4 multi-site starter showcasing [Eleventy *Bl*ades Kit](//11ty.blades.ninja/) and Tailwind CLI for:</big>
+<big>5-in-1 modern, lightweight Eleventy v4 multi-site starter showcasing [Eleventy *Bl*ades Kit](//11ty.blades.ninja/) and Tailwind CLI for:</big>
 
 | [1] [Tailwind CSS + Typography](//tw.11ty.blades.ninja/) | ![](https://img.shields.io/netlify/a980220a-630d-4022-9496-fb83b5db7c6b?logo=tailwindcss&label=&labelColor=gray) |
-|-|-|
-| [2] [Pico&nbsp;CSS](//pico.11ty.blades.ninja/) | ![](https://img.shields.io/netlify/93494d69-cb21-4ad0-855f-3748d3741e5c?logo=&label=✨) |
-| [3] [Simple CSS](//simple.11ty.blades.ninja/) | ![](https://img.shields.io/netlify/6bbb26f6-0115-4325-8cd3-b59e22f18265?logo=&label={}) |
-| [4] [Liquid](//liquid.11ty.blades.ninja/) | ![](https://img.shields.io/netlify/01d6a69a-2c7e-4620-8496-83087add8f8e?logo=&label=💧) |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| [2] [*Bl*ades CSS](//blades.11ty.blades.ninja/)          | ...                                                                                                              |
+| [3] [Pico CSS](//pico.11ty.blades.ninja/)                | ![](https://img.shields.io/netlify/93494d69-cb21-4ad0-855f-3748d3741e5c?logo=&label=✨)                          |
+| [4] [Simple CSS](//simple.11ty.blades.ninja/)            | ![](https://img.shields.io/netlify/6bbb26f6-0115-4325-8cd3-b59e22f18265?logo=&label={})                          |
+| [5] [Liquid](//liquid.11ty.blades.ninja/)                | ![](https://img.shields.io/netlify/01d6a69a-2c7e-4620-8496-83087add8f8e?logo=&label=💧)                          |
 
 ## Killer features
 
