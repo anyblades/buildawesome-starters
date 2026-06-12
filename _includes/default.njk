@@ -1,4 +1,3 @@
-{% set site = pkg.site | merge(site) | attr_set('styles', pkg.site.styles) | attr_concat('styles', site.styles) %}
 {% set content_for_header %}
   {{ content_for_header | safe }}<meta name="generator" content="{{ site.generator }}" />
 {% endset %}

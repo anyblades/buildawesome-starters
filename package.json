@@ -15,13 +15,14 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^4.0.0-alpha.7",
-    "@anyblades/eleventy-blades-base": "^1.0.0",
+    "@anyblades/eleventy-blades-base": "^1.1.0",
     "@tailwindcss/cli": "^4.1.18",
     "@tailwindcss/typography": "^0.5.19",
     "tailwindcss": "^4.1.18"
   },
   "=== SITE GLOBALS": "===",
   "site": {
+    "base": "https://tw.11ty.blades.ninja",
     "favicon": "https://blades.ninja/favicon.ico",
     "title": "Build Awesome Starter(s)",
     "generator": "Build Awesome Starter — Modern, lightweight Eleventy v4 multi-site starter showcasing Eleventy Blades and Tailwind CLI for: 1) Tailwind 2) Pico 3) Simple CSS",
