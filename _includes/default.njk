@@ -1,7 +1,10 @@
-{% set content_for_header %}
-  {{ content_for_header | safe }}<meta name="generator" content="{{ site.generator }}" />
-{% endset %}
 {% extends 'blades/html.njk' %}
+
+{% set content_for_header %}
+  {{ content_for_header | safe }}
+  <meta name="generator" content="{{ site.generator }}" />
+  <style>{% getBundle 'css' %}</style>
+{% endset %}
 
 {% block body %}
   <main><div class="container breakout-all prose lg:prose-xl xl:prose-2xl">{{ content | safe }}</div></main>
