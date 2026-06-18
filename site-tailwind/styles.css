@@ -1,14 +1,23 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 @import "@anyblades/blades/standalone";
+@import "@anyblades/blades/ninja";
 
 /* Custom styles go below */
 body {
   @apply py-[4em] dark:bg-gray-900;
-  > footer { @apply text-center }
+
+  > footer {
+    @apply text-center;
+  }
 }
-.container { @apply mx-auto }
+.container {
+  @apply mx-auto;
+}
 .prose {
   @apply dark:prose-invert;
-  img { @apply inline-block m-0 }
+
+  img {
+    @apply inline-block m-0;
+  }
 }

@@ -31,7 +31,7 @@
     },
     "styles": [
       "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/all.min.css",
-      "https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-tomorrow.min.css"
+      "https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-okaidia.min.css"
     ],
     "scripts": [
       "https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-core.min.js",
