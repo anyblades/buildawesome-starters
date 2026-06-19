@@ -14,7 +14,7 @@
     "build": "npm run do -- build"
   },
   "dependencies": {
-    "@anyblades/eleventy-blades-base": "^1.2.5",
+    "@anyblades/eleventy-blades-base": "^1.2.6",
     "@awesome.me/buildawesome": "^4.0.0-0",
     "@tailwindcss/cli": "^4.1.18",
     "@tailwindcss/typography": "^0.5.19",
