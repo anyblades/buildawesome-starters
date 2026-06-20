@@ -1,7 +1,6 @@
 styles:
-  - https://cdn.jsdelivr.net/npm/@anyblades/blades@2/css/blades.min.css
-  - https://cdn.jsdelivr.net/npm/@anyblades/blades@2/css/blades.ninja.min.css
-  - https://cdn.jsdelivr.net/npm/@awesome.me/webawesome@3.9.0/dist-cdn/styles/themes/default.min.css
+  - https://cdn.jsdelivr.net/npm/@awesome.me/webawesome@3.9.0/dist-cdn/styles/webawesome.css
+  - https://cdn.jsdelivr.net/npm/@anyblades/blades@2/css/blades.standalone.min.css
   - /styles.css
 head_extras:
   - <script type="module" src="https://cdn.jsdelivr.net/npm/@awesome.me/webawesome@3.9.0/dist-cdn/webawesome.loader.js"></script>
