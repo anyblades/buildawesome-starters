@@ -8,10 +8,14 @@
     "do"
   ],
   "scripts": {
-    "do": "clear; ELTY_OPTIONS=\"--input=${IN:-./site-tailwind/} --config=./node_modules/@anyblades/eleventy-blades-base/eleventy.config.js\" TW_OPTIONS=\"--input=${IN:-./site-tailwind/}/styles.css --output=./_public/styles.css\" npm -w do run",
-    "start": "npm run do -- start:with-tw",
+    "do": "clear; ELTY_OPTIONS=\"--input=${IN:-./site-blades/} --config=./node_modules/@anyblades/eleventy-blades-base/eleventy.config.js\" npm -w do run",
+    "start": "npm run do -- start",
     "stage": "npm run do -- stage",
-    "build": "npm run do -- build"
+    "build": "npm run do -- build",
+    "tw": "IN=./site-tailwind/ TW_OPTIONS=\"--input=./site-tailwind/styles.css --output=./_public/styles.css\" npm run do",
+    "start2": "npm run tw -- start:with-tw",
+    "stage2": "npm run tw -- stage",
+    "build2": "npm run tw -- build"
   },
   "dependencies": {
     "@anyblades/eleventy-blades-base": "^1.2.6",
