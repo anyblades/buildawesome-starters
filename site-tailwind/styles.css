@@ -5,18 +5,13 @@
 
 /* Custom styles go below */
 body {
-  @apply py-[4em] dark:bg-gray-900;
-
-  > footer {
-    @apply text-center;
-  }
+  @apply dark:bg-gray-900;
 }
 .container {
   @apply mx-auto;
 }
 .prose {
   @apply dark:prose-invert;
-
   img {
     @apply inline-block m-0;
   }
