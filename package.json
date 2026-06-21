@@ -12,7 +12,7 @@
     "start": "npm run do -- start",
     "stage": "npm run do -- stage",
     "build": "npm run do -- build",
-    "tw": "IN=./site-tailwind/ TW_OPTIONS=\"--input=./site-tailwind/styles.css --output=./_public/styles.css\" npm run do",
+    "tw": "IN=./site-tailwind/ TW_OPTIONS=\"--input=./site-tailwind/tw.css --output=./site-tailwind/_public/tw.css\" npm run do",
     "start2": "npm run tw -- start:with-tw",
     "stage2": "npm run tw -- stage",
     "build2": "npm run tw -- build"
