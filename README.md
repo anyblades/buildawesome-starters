@@ -45,6 +45,13 @@ npm run stage  # serve production version locally
                # ready to deploy! 🚀
 ```
 
+Add `IN=...` to build the specific site:
+
+```sh
+IN=site-webawesome npm start
+IN=site-webawesome npm run stage
+```
+
 ---
 
 - Featured by:
